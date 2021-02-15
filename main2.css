@@ -1,0 +1,35 @@
+body{
+	background:rgb(0,0,0);
+            color:rgb(3,160,98);
+            font-family: 'Lexend Mega', sans-serif;
+            text-align: center;
+ }
+
+
+ h1{
+   font-family: 'Lexend Mega', sans-serif;
+   font-weight: bolder;
+}
+
+h2{
+	font-weight: lighter;
+	font-style: italic;
+	font-family: 'Lexend Mega', sans-serif;
+
+}
+
+h3{
+	font-weight: lighter;
+	font-family: 'Lexend Mega', sans-serif;
+	text-align: left;
+}
+
+.box {
+            border: 1px solid #000000;
+            width: 1400px;
+            background: rgb(255,255,255);
+            color: black;
+            margin: 15px;
+            padding: 15px 0;
+            text-align: center;
+        }
